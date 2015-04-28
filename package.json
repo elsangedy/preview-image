@@ -1,0 +1,23 @@
+{
+  "name": "preview-image",
+  "version": "1.0.0",
+  "description": "javascript image preview on AangularJS",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/munir7/preview-image.git"
+  },
+  "author": "Munir Ahmed <elsangedy@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/munir7/preview-image/issues"
+  },
+  "homepage": "https://github.com/munir7/preview-image",
+  "devDependencies": {
+    "browser-sync": "^2.6.5",
+    "gulp": "^3.8.11"
+  }
+}
